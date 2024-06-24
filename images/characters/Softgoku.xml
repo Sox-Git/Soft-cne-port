@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Softgoku.png">
+<SubTexture name="Softgoku down0000" x="582" y="0" width="193" height="401" frameX="-9" frameY="-19" frameWidth="214" frameHeight="425" />
+<SubTexture name="Softgoku right0000" x="0" y="0" width="200" height="410" frameX="0" frameY="-10" frameWidth="214" frameHeight="425" />
+<SubTexture name="Softgoku left0000" x="200" y="0" width="200" height="410" frameX="0" frameY="-10" frameWidth="214" frameHeight="425" />
+<SubTexture name="Softgoku up0000" x="0" y="410" width="194" height="319" frameX="-10" frameY="-56" frameWidth="214" frameHeight="425" />
+<SubTexture name="Softgoku idle0000" x="400" y="0" width="182" height="410" frameX="-18" frameY="-10" frameWidth="214" frameHeight="425" />
+</TextureAtlas>

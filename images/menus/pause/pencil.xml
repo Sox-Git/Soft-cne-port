@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pencil.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pencil0000" x="10" y="10" width="415" height="312" frameX="0" frameY="-7" frameWidth="425" frameHeight="319"/>
+	<SubTexture name="pencil0001" x="10" y="10" width="415" height="312" frameX="0" frameY="-7" frameWidth="425" frameHeight="319"/>
+	<SubTexture name="pencil0002" x="10" y="10" width="415" height="312" frameX="0" frameY="-7" frameWidth="425" frameHeight="319"/>
+	<SubTexture name="pencil0003" x="435" y="10" width="382" height="298" frameX="-43" frameY="0" frameWidth="425" frameHeight="319"/>
+	<SubTexture name="pencil0004" x="435" y="10" width="382" height="298" frameX="-43" frameY="0" frameWidth="425" frameHeight="319"/>
+	<SubTexture name="pencil0005" x="435" y="10" width="382" height="298" frameX="-43" frameY="0" frameWidth="425" frameHeight="319"/>
+	<SubTexture name="pencil0006" x="10" y="332" width="390" height="300" frameX="-33" frameY="-4" frameWidth="425" frameHeight="319"/>
+	<SubTexture name="pencil0007" x="10" y="332" width="390" height="300" frameX="-33" frameY="-4" frameWidth="425" frameHeight="319"/>
+	<SubTexture name="pencil0008" x="10" y="332" width="390" height="300" frameX="-33" frameY="-4" frameWidth="425" frameHeight="319"/>
+	<SubTexture name="pencil0009" x="10" y="332" width="390" height="300" frameX="-33" frameY="-4" frameWidth="425" frameHeight="319"/>
+	<SubTexture name="pencil0010" x="10" y="332" width="390" height="300" frameX="-33" frameY="-4" frameWidth="425" frameHeight="319"/>
+	<SubTexture name="pencil0011" x="10" y="332" width="390" height="300" frameX="-33" frameY="-4" frameWidth="425" frameHeight="319"/>
+</TextureAtlas>
